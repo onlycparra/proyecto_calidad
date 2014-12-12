@@ -17,8 +17,5 @@ void main(int *argc,char *argv[]){
 		sdasd;
 		funcion();
 	}
-
-
-
 	return;
 }
